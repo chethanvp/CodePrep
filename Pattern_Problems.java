@@ -4,9 +4,9 @@
 
 public class Pattern_Problems {
     public static void main(String[] args) {
-        // print1(5); // square *
-        // print2(5);  //left pyramid *
-        // print3(5); // left pyramid number 12345
+        // print1(5); // square * https://static.takeuforward.org/wp/uploads/2022/08/P1.png
+        // print2(5);  //left pyramid * https://static.takeuforward.org/wp/uploads/2022/08/P2.png
+        // print3(5); // left pyramid number 12345 
         // print4(5); //left pyramid number 55555
         // print5(5); //left pyramid inverted *
         // print6(5); //left pyramid inverted 12345
